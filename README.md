@@ -14,7 +14,7 @@ Here is the first 2D Unity game that I have developed, where the Number Wizard w
 
 **Gameplay Screen**
 
-<img src = "GameplayImages/BlockBreakerGameScreen.png" width="800" height="400">
+<img src = "GameplayImages/NumberWizardGameScreen.png" width="800" height="400">
 
 *This is the Gameplay screen.*  
 
@@ -22,7 +22,7 @@ Here is the first 2D Unity game that I have developed, where the Number Wizard w
 
 **GameOver Screen**
 
-<img src = "GameplayImages/BlockBreakerGameOver.png" width="800" height="400">
+<img src = "GameplayImages/NumberWizardEndScreen.png" width="800" height="400">
 
 *This is the end screen which shows when the wizard has guessed your number.*
 
